@@ -1,0 +1,43 @@
+</TagValue1>
+    <TagName2 />
+    <TagValue2>0</TagValue2>
+    <TagName3 />
+    <TagValue3>0</TagValue3>
+    <TagName4 />
+    <TagValue4>0</TagValue4>
+    <Jump />
+    <JumpCycles>0</JumpCycles>
+    <SwitchConditionTagName1 />
+    <SwitchConditionOperator1 />
+    <SwitchConditionTagValue1>0</SwitchConditionTagValue1>
+    <SwitchConditionTime1>PT0.1S</SwitchConditionTime1>
+    <SwitchConditionTagName2 />
+    <SwitchConditionOperator2 />
+    <SwitchConditionTagValue2>0</SwitchConditionTagValue2>
+    <SwitchConditionTime2>PT0S</SwitchConditionTime2>
+    <SwitchConditionTagName3 />
+    <SwitchConditionOperator3 />
+    <SwitchConditionTagValue3>0</SwitchConditionTagValue3>
+    <SwitchConditionTime3>PT0S</SwitchConditionTime3>
+    <SwitchConditionTagName4 />
+    <SwitchConditionOperator4 />
+    <SwitchConditionTagValue4>0</SwitchConditionTagValue4>
+    <SwitchConditionTime4>PT0S</SwitchConditionTime4>
+    <RegisterConditionTagName1 />
+    <RegisterConditionOperator1 />
+    <RegisterConditionTagValue1>0</RegisterConditionTagValue1>
+    <RegisterConditionTime1>PT0S</RegisterConditionTime1>
+    <RegisterConditionTagName2 />
+    <RegisterConditionOperator2 />
+    <RegisterConditionTagValue2>0</RegisterConditionTagValue2>
+    <RegisterConditionTime2>PT0S</RegisterConditionTime2>
+    <RegisterConditionTagName3 />
+    <RegisterConditionOperator3 />
+    <RegisterConditionTagValue3>0</RegisterConditionTagValue3>
+    <RegisterConditionTime3>PT0S</RegisterConditionTime3>
+    <RegisterConditionTagName4 />
+    <RegisterConditionOperator4 />
+    <RegisterConditionTagValue4>0</RegisterConditionTagValue4>
+    <RegisterConditionTime4>PT0S</RegisterConditionTime4>
+    <Remark />
+  </SequencerTestProgramStep>

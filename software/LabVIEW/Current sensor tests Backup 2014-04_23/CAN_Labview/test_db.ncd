@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<nican_config version="2.0">
+<min_version nican="2.2"></min_version>
+<saved>1/9/2014,8:57</saved>
+<message name="InstrumentPanel">
+<id extended="0">133</id>
+<dbc>C:\Program Files\National Instruments\NI-CAN\example.ncd</dbc>
+<conflicts>0</conflicts>
+<bytes>8</bytes>
+<interface>-1</interface>
+<comment></comment>
+<channel name="Speedometer">
+<conflicts>0</conflicts>
+<bitfield start="0" bits="16" order="0" type="1"/>
+<linear_scaling factor="3.906250e-003" offset="0.000000e+000" max="2.510000e+002" min="0.000000e+000" default="0.000000e+000" unit="km/h"/>
+<comment></comment>
+</channel>
+<channel name="Tachometer">
+<conflicts>0</conflicts>
+<bitfield start="16" bits="16" order="0" type="1"/>
+<linear_scaling factor="1.250000e-001" offset="0.000000e+000" max="8.031000e+003" min="0.000000e+000" default="0.000000e+000" unit="rpm"/>
+<comment></comment>
+</channel>
+<channel name="FuelGauge">
+<conflicts>0</conflicts>
+<bitfield start="32" bits="8" order="0" type="1"/>
+<linear_scaling factor="4.000000e-001" offset="0.000000e+000" max="1.000000e+002" min="0.000000e+000" default="0.000000e+000" unit="%"/>
+<comment></comment>
+</channel>
+<channel name="TemperatureGauge">
+<conflicts>0</conflicts>
+<bitfield start="40" bits="8" order="0" type="1"/>
+<linear_scaling factor="4.000000e-001" offset="0.000000e+000" max="1.000000e+002" min="0.000000e+000" default="0.000000e+000" unit="% C-to-H"/>
+<comment></comment>
+</channel>
+<channel name="BrakeSystemWarning">
+<conflicts>0</conflicts>
+<bitfield start="48" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+<channel name="ABSWarning">
+<conflicts>0</conflicts>
+<bitfield start="49" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+<channel name="OilPressureWarning">
+<conflicts>0</conflicts>
+<bitfield start="50" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+<channel name="ChargingSystemWarning">
+<conflicts>0</conflicts>
+<bitfield start="51" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+<channel name="SeatBeltWarning">
+<conflicts>0</conflicts>
+<bitfield start="52" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+<channel name="ServiceEngineWarning">
+<conflicts>0</conflicts>
+<bitfield start="53" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+<channel name="CruiseActiveIndicator">
+<conflicts>0</conflicts>
+<bitfield start="59" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+<channel name="LeftTurnSignalIndicator">
+<conflicts>0</conflicts>
+<bitfield start="56" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+<channel name="RightTurnSignalIndicator">
+<conflicts>0</conflicts>
+<bitfield start="57" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+<channel name="HighBeamIndicator">
+<conflicts>0</conflicts>
+<bitfield start="58" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+<channel name="AirBagIndicator">
+<conflicts>0</conflicts>
+<bitfield start="60" bits="1" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.000000e+000" min="0.000000e+000" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+</message>
+<message name="TransmissionFluids">
+<id extended="0">82</id>
+<dbc>C:\Program Files\National Instruments\NI-CAN\example.ncd</dbc>
+<conflicts>0</conflicts>
+<bytes>6</bytes>
+<interface>-1</interface>
+<comment></comment>
+<channel name="ClutchPressure">
+<conflicts>0</conflicts>
+<bitfield start="0" bits="8" order="0" type="1"/>
+<linear_scaling factor="1.600000e+001" offset="0.000000e+000" max="4.000000e+003" min="0.000000e+000" default="0.000000e+000" unit="kPa"/>
+<comment></comment>
+</channel>
+<channel name="TransmissionOilLevel">
+<conflicts>0</conflicts>
+<bitfield start="8" bits="8" order="0" type="1"/>
+<linear_scaling factor="4.000000e-001" offset="0.000000e+000" max="1.000000e+002" min="0.000000e+000" default="0.000000e+000" unit="%"/>
+<comment></comment>
+</channel>
+<channel name="TransmissionFilterPressure">
+<conflicts>0</conflicts>
+<bitfield start="16" bits="8" order="0" type="1"/>
+<linear_scaling factor="1.600000e-001" offset="0.000000e+000" max="4.000000e+001" min="0.000000e+000" default="0.000000e+000" unit="bar"/>
+<comment></comment>
+</channel>
+<channel name="TransmissionOilPressure">
+<conflicts>0</conflicts>
+<bitfield start="24" bits="8" order="0" type="1"/>
+<linear_scaling factor="1.600000e-001" offset="0.000000e+000" max="4.000000e+001" min="0.000000e+000" default="0.000000e+000" unit="bar"/>
+<comment></comment>
+</channel>
+<channel name="TransmissionOilTemp">
+<conflicts>0</conflicts>
+<bitfield start="32" bits="16" order="0" type="1"/>
+<linear_scaling factor="3.125000e-002" offset="-2.730000e+002" max="1.735000e+003" min="-2.730000e+002" default="0.000000e+000" unit="°C"/>
+<comment></comment>
+</channel>
+</message>
+<message name="test_message">
+<id extended="1">291</id>
+<dbc></dbc>
+<conflicts>0</conflicts>
+<bytes>1</bytes>
+<interface>-1</interface>
+<comment></comment>
+<channel name="AllBits">
+<conflicts>0</conflicts>
+<bitfield start="0" bits="8" order="0" type="1"/>
+<linear_scaling factor="1.000000e+000" offset="0.000000e+000" max="1.700000e+308" min="-1.700000e+308" default="0.000000e+000" unit=""/>
+<comment></comment>
+</channel>
+</message>
+</nican_config>
