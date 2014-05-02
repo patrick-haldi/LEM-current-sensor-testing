@@ -1,0 +1,350 @@
+Delivered-To: patrick.haldi@gmail.com
+Received: by 10.68.204.136 with SMTP id ky8csp138756pbc;
+        Mon, 21 Oct 2013 07:41:00 -0700 (PDT)
+X-Received: by 10.15.31.9 with SMTP id x9mr2808252eeu.53.1382366459664;
+        Mon, 21 Oct 2013 07:40:59 -0700 (PDT)
+Return-Path: <andrea.vezzini@bfh.ch>
+Received: from mr1.bfh.ch (mr1.bfh.ch. [147.87.250.50])
+        by mx.google.com with ESMTPS id 43si12541905eef.24.2013.10.21.07.40.58
+        for <patrick.haldi@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 21 Oct 2013 07:40:59 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of andrea.vezzini@bfh.ch designates 147.87.250.50 as permitted sender) client-ip=147.87.250.50;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of andrea.vezzini@bfh.ch designates 147.87.250.50 as permitted sender) smtp.mail=andrea.vezzini@bfh.ch
+Received: from bfhsrv04.bfh.ch (bfhsrv04.bfh.ch [147.87.244.54])
+	by mr1.bfh.ch (8.13.8/8.13.8) with ESMTP id r9LEdY4I002413
+	for <patrick.haldi@gmail.com>; Mon, 21 Oct 2013 16:40:52 +0200
+Received: from ARCHIMEDES.bfh.ch (147.87.159.64) by bfhsrv04.bfh.ch
+ (147.87.244.54) with Microsoft SMTP Server (TLS) id 8.3.327.1; Mon, 21 Oct
+ 2013 16:40:07 +0200
+Received: from nyx.bfh.ch ([147.87.96.19]) by ARCHIMEDES.bfh.ch ([::1]) with
+ mapi; Mon, 21 Oct 2013 16:40:07 +0200
+From: Vezzini Andrea <andrea.vezzini@bfh.ch>
+To: Patrick Haldi <patrick.haldi@gmail.com>
+Date: Mon, 21 Oct 2013 16:40:04 +0200
+Subject: =?iso-8859-1?Q?Re:_Project_=E9valuation_capteurs_LEM_sur_banc_de_test?=
+Thread-Topic: =?iso-8859-1?Q?Project_=E9valuation_capteurs_LEM_sur_banc_de_test?=
+Thread-Index: Ac7Oa29Equ80aDp6S8SZL9y0FjDV0Q==
+Message-ID: <CE8B08F7.28F47%andrea.vezzini@bfh.ch>
+In-Reply-To: <5265323B.8030708@gmail.com>
+Accept-Language: de-DE, de-CH
+Content-Language: de-DE
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+user-agent: Microsoft-MacOutlook/14.3.4.130416
+acceptlanguage: de-DE, de-CH
+Content-Type: multipart/alternative;
+	boundary="_000_CE8B08F728F47andreavezzinibfhch_"
+MIME-Version: 1.0
+X-PMWin-Version: 3.1.2.0, Antivirus-Engine: 3.43.0, Antivirus-Data: 4.93G
+X-Spam-Status: No, score=0.0 required=4.0 tests=HTML_MESSAGE
+	autolearn=disabled version=3.2.5
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mr1.bfh.ch
+X-Virus-Scanned: clamav-milter 0.97 at mr1.bfh.ch
+X-Virus-Status: Clean
+
+--_000_CE8B08F728F47andreavezzinibfhch_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Super.
+
+Dann machen wir es so, dass Alain Messerli Ihnen eine Einf=FChrung in den P=
+r=FCfstand gibt am 12. Und wir k=F6nnen dann auch noch kurz das Treffen am =
+n=E4chsten tag vorbereiten. Dann geht es am 13. nach Genf. Wenn es klappt k=
+omme ich auch mit.
+
+Als erstes Projekt finde ich das =FCbrigens sehr spannend!
+Gruss
+
+Andrea Vezzini
+---------------------------------------------------------------------------=
+---------------------------------------------------------
+Andrea Vezzini
+Dr. sc. techn. ETH, Professor for Industrial Electronics BFH
+
+Bern University of Applied Sciences, Division of Electrical- and Communicat=
+ion Engineering
+Quellgasse 21, CH-2501 Biel/Bienne ; Switzerland
+
+Tf. +41 32 321 63 72
+Mobile +41 79 352 54 51
+Mail andrea.vezzini@bfh.ch<mailto:andrea.vezzini@bfh.ch>
+Web http://www.ti.bfh.ch/
+
+
+Von: Patrick Haldi <patrick.haldi@gmail.com<mailto:patrick.haldi@gmail.com>=
+>
+Datum: Montag, 21. Oktober 2013 15:55
+An: Andrea Vezzini <andrea.vezzini@bfh.ch<mailto:andrea.vezzini@bfh.ch>>
+Betreff: Re: FW: Project =E9valuation capteurs LEM sur banc de test
+
+Sehr geehrter Herr Vezzini
+
+Vielen Dank f=FCr das Einreichen der Anstellungsformulare.
+
+Der 12. und 13. November passen mir gut.
+Bin gespannt auf mein erstes Projekt!
+
+Mit freundlichen Gr=FCssen
+Patrick Haldi
+
+Am 21.10.2013 15:07, schrieb Vezzini Andrea:
+Hallo Herr Haldi
+
+Letzte Woche habe ich mich mit LEM getroffen, ein Unternehmen, dass f=FCr d=
+en Automobil- und Industriebereich Stromsensoren produziert und in Genf ans=
+=E4ssig ist.
+
+Wir m=F6chten nun in einem Projekt einen neuen Stromsensor von LEM gegen ve=
+rschiedene Konkurrenzprodukte und einen Referenzsensor auf unserem Batterie=
+pr=FCfstand austesten und die Abweichung der Messung gegen=FCber dem tats=
+=E4chlichen Stromintegral f=FCr verschiedene Testzyklen ausmessen.
+
+Das Ganze ist ein ideales Einstiegsprojekt f=FCr Sie und ich m=F6chte Sie f=
+ragen, ob wir im November einmal zu LEM gehen k=F6nnten. Diesen Tag und eve=
+ntuell einen weiteren Einf=FChrungstag k=F6nnten Sie dann im Dezember kompe=
+nsieren.
+
+Ein paar Infos finden Sie im Anhang.
+
+Wie sieht es f=FCr Sie am 12 und / oder am 13. November aus? W=E4ren Sie ve=
+rf=FCgbar.
+
+Mit freundlichen Gr=FCssen
+
+Andrea Vezzini
+---------------------------------------------------------------------------=
+---------------------------------------------------------
+Andrea Vezzini
+Dr. sc. techn. ETH, Professor for Industrial Electronics BFH
+
+Bern University of Applied Sciences, Division of Electrical- and Communicat=
+ion Engineering
+Quellgasse 21, CH-2501 Biel/Bienne ; Switzerland
+
+Tf. +41 32 321 63 72
+Mobile +41 79 352 54 51
+Mail andrea.vezzini@bfh.ch<mailto:andrea.vezzini@bfh.ch>
+Web http://www.ti.bfh.ch/
+
+
+Von: Gauthier Plagne <GPl@lem.com<mailto:GPl@lem.com>>
+Datum: Montag, 21. Oktober 2013 14:25
+An: Andrea Vezzini <andrea.vezzini@bfh.ch<mailto:andrea.vezzini@bfh.ch>>
+Cc: Wolfram Teppan <wte@lem.com<mailto:wte@lem.com>>
+Betreff: Project =E9valuation capteurs LEM sur banc de test
+
+Monsieur Vezzini,
+
+
+Suite =E0 notre rencontre de lundi dernier, je vous envoi des informations =
+compl=E9mentaires concernant le capteur zero-offset que nous avons d=E9velo=
+pp=E9 pour les applications de batterie li-ion.
+
+La datahseet du produit:
+
+
+
+Et une bref pr=E9sentation r=E9sumant les avantages de ce type de produit d=
+ans les battery pack pour v=E9hicules =E9lectriques et hybrides:
+
+
+
+
+C'est sur la base de cette pr=E9sentation que je voudrais faire une publica=
+tion en montrant diff=E9rents r=E9sultats obtenus =E0 la suite d'essais r=
+=E9alis=E9s sur votre banc de test.
+
+
+Lors de notre discussion, nous avons convenu de monter un projet d'=E9tude =
+dans lequel nous allons mettre =E0 votre disposition diff=E9rents capteurs =
+de courant avec plusieurs technologies de mesure ainsi que des profiles de =
+courant provenant de nos clients. Le but est de v=E9rifier la pr=E9cision d=
+e chaque capteur en mesure de SOC sur un profile complet en comparaison ave=
+c un capteur de courant de r=E9f=E9rence.
+L'objectif est de d=E9marrer les essais en d=E9cembre.
+
+En esp=E9rant avoir prochainement l'occasion de vous revoir, plus longuemen=
+t cette
+
+
+[cid:_1_0BB16FD80BB16ACC004434E7C1257C0B]
+
+
+
+
+--_000_CE8B08F728F47andreavezzinibfhch_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body style=3D"word-wrap: break-word; -webkit-nbsp-mode:=
+ space; -webkit-line-break: after-white-space; color: rgb(0, 0, 0); font-si=
+ze: 14px; font-family: Calibri, sans-serif; "><div><div><div>Super.</div><d=
+iv><br></div><div>Dann machen wir es so, dass Alain Messerli Ihnen eine Ein=
+f=FChrung in den Pr=FCfstand gibt am 12. Und wir k=F6nnen dann auch noch ku=
+rz das Treffen am n=E4chsten tag vorbereiten. Dann geht es am 13. nach Genf=
+. Wenn es klappt komme ich auch mit.</div><div><br></div><div>Als erstes Pr=
+ojekt finde ich das =FCbrigens sehr spannend!</div><div>Gruss</div><div><br=
+></div><div>Andrea Vezzini</div><div><div><p class=3D"MsoNormal" style=3D"m=
+argin: 0cm 0cm 0.0001pt; font-size: 11pt; "><span lang=3D"EN-US" style=3D"c=
+olor: rgb(31, 73, 125); ">-------------------------------------------------=
+---</span><span lang=3D"EN-GB" style=3D"color: rgb(31, 73, 125); ">--------=
+------------------------------------------------------------------------<o:=
+p></o:p></span></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt=
+; font-size: 11pt; "><span lang=3D"EN-GB" style=3D"color: rgb(31, 73, 125);=
+ ">Andrea Vezzini<o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"marg=
+in: 0cm 0cm 0.0001pt; font-size: 11pt; "><span lang=3D"EN-GB" style=3D"colo=
+r: rgb(31, 73, 125); ">Dr. sc. techn. ETH</span><span lang=3D"EN-US" style=
+=3D"color: rgb(31, 73, 125); ">,&nbsp;</span><span lang=3D"EN-GB" style=3D"=
+color: rgb(31, 73, 125); ">Professor for Industrial Electronics BFH<o:p></o=
+:p></span></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; fon=
+t-size: 11pt; "><span lang=3D"EN-GB" style=3D"color: rgb(31, 73, 125); ">&n=
+bsp;</span></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; fo=
+nt-size: 11pt; "><span lang=3D"EN-GB" style=3D"color: rgb(31, 73, 125); ">B=
+ern University of Applied Sciences, Division of Electrical- and Communicati=
+on Engineering<o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"margin:=
+ 0cm 0cm 0.0001pt; font-size: 11pt; "><span lang=3D"FR" style=3D"color: rgb=
+(31, 73, 125); ">Quellgasse 21, CH-2501 Biel/Bienne&nbsp;; Switzerland<o:p>=
+</o:p></span></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 11pt; "><span lang=3D"FR" style=3D"color: rgb(31, 73, 125); ">&n=
+bsp;</span></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; fo=
+nt-size: 11pt; "><span lang=3D"FR" style=3D"color: rgb(31, 73, 125); ">Tf. =
++41 32 321 63 72<o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"margi=
+n: 0cm 0cm 0.0001pt; font-size: 11pt; "><span lang=3D"FR" style=3D"color: r=
+gb(31, 73, 125); ">Mobile +41 79 352 54 51<o:p></o:p></span></p><p class=3D=
+"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 11pt; "><span lan=
+g=3D"FR" style=3D"color: rgb(31, 73, 125); ">Mail&nbsp;</span><a href=3D"ma=
+ilto:andrea.vezzini@bfh.ch" style=3D"color: purple; "><span lang=3D"FR" sty=
+le=3D"color: rgb(31, 73, 125); ">andrea.vezzini@bfh.ch</span></a><span lang=
+=3D"FR" style=3D"color: rgb(31, 73, 125); "><o:p></o:p></span></p><p class=
+=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 11pt; "><span =
+lang=3D"FR" style=3D"color: rgb(31, 73, 125); ">Web&nbsp;</span><a href=3D"=
+http://www.ti.bfh.ch/" style=3D"color: purple; "><span lang=3D"FR" style=3D=
+"color: rgb(31, 73, 125); ">http://www.ti.bfh.ch/</span></a></p></div><br><=
+/div></div></div><div><br></div><span id=3D"OLK_SRC_BODY_SECTION"><div styl=
+e=3D"font-family:Calibri; font-size:11pt; text-align:left; color:black; BOR=
+DER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PAD=
+DING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: #b5c4df 1pt solid; BORDER-R=
+IGHT: medium none; PADDING-TOP: 3pt"><span style=3D"font-weight:bold">Von: =
+</span> Patrick Haldi &lt;<a href=3D"mailto:patrick.haldi@gmail.com">patric=
+k.haldi@gmail.com</a>&gt;<br><span style=3D"font-weight:bold">Datum: </span=
+> Montag, 21. Oktober 2013 15:55<br><span style=3D"font-weight:bold">An: </=
+span> Andrea Vezzini &lt;<a href=3D"mailto:andrea.vezzini@bfh.ch">andrea.ve=
+zzini@bfh.ch</a>&gt;<br><span style=3D"font-weight:bold">Betreff: </span> R=
+e: FW: Project =E9valuation capteurs LEM sur banc de test<br></div><div><br=
+></div><div><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"><div text=3D"#000000" bgcolor=3D"#FFFFFF"><div class=3D"moz-cite-=
+prefix">Sehr geehrter Herr Vezzini<br><br>
+Vielen Dank f=FCr das Einreichen der Anstellungsformulare. <br><br>
+Der 12. und 13. November passen mir gut. <br>
+Bin gespannt auf mein erstes Projekt! <br><br>
+Mit freundlichen Gr=FCssen<br>
+Patrick Haldi<br><br>
+Am 21.10.2013 15:07, schrieb Vezzini Andrea:<br></div><blockquote cite=3D"m=
+id:CE8AF16A.28E77%25andrea.vezzini@bfh.ch" type=3D"cite"><div><div><div>Hal=
+lo Herr Haldi</div><div><br></div><div>Letzte Woche habe ich mich mit LEM g=
+etroffen, ein Unternehmen, dass f=FCr den Automobil- und Industriebereich S=
+tromsensoren produziert und in Genf ans=E4ssig ist.</div><div><br></div><di=
+v>Wir m=F6chten nun in einem Projekt einen neuen Stromsensor von LEM gegen =
+verschiedene Konkurrenzprodukte und einen Referenzsensor auf unserem Batter=
+iepr=FCfstand austesten und die Abweichung der Messung gegen=FCber dem tats=
+=E4chlichen Stromintegral f=FCr verschiedene
+ Testzyklen ausmessen.</div><div><br></div><div>Das Ganze ist ein ideales E=
+instiegsprojekt f=FCr Sie und ich m=F6chte Sie fragen, ob wir im November e=
+inmal zu LEM gehen k=F6nnten. Diesen Tag und eventuell einen weiteren Einf=
+=FChrungstag k=F6nnten Sie dann im Dezember kompensieren.</div><div><br></d=
+iv><div>Ein paar Infos finden Sie im Anhang.</div><div><br></div><div>Wie s=
+ieht es f=FCr Sie am 12 und / oder am 13. November aus? W=E4ren Sie verf=FC=
+gbar.</div><div><br></div><div>Mit freundlichen Gr=FCssen</div><div><br></d=
+iv><div>Andrea Vezzini</div><div><div><p class=3D"MsoNormal" style=3D"margi=
+n: 0cm 0cm 0.0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"EN-US">----------------------------------------=
+------------</span><span style=3D"color: rgb(31, 73, 125); " lang=3D"EN-GB"=
+>--------------------------------------------------------------------------=
+------<o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm=
+ 0.0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"EN-GB">Andrea Vezzini<o:p></o:p></span></p><p c=
+lass=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"EN-GB">Dr. sc. techn. ETH</span><span style=3D"=
+color: rgb(31, 73, 125); " lang=3D"EN-US">,&nbsp;</span><span style=3D"colo=
+r: rgb(31, 73, 125); " lang=3D"EN-GB">Professor for Industrial Electronics =
+BFH<o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.=
+0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"EN-GB">&nbsp;</span></p><p class=3D"MsoNormal" =
+style=3D"margin: 0cm 0cm 0.0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"EN-GB">Bern University of Applied Sciences, Div=
+ision of Electrical- and Communication Engineering<o:p></o:p></span></p><p =
+class=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"FR">Quellgasse 21, CH-2501 Biel/Bienne&nbsp;; S=
+witzerland<o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"margin: 0cm=
+ 0cm 0.0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"FR">&nbsp;</span></p><p class=3D"MsoNormal" sty=
+le=3D"margin: 0cm 0cm 0.0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"FR">Tf. +41 32 321 63 72<o:p></o:p></span></p><=
+p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"FR">Mobile +41 79 352 54 51<o:p></o:p></span></=
+p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"FR">Mail&nbsp;</span><a moz-do-not-send=3D"true=
+" href=3D"mailto:andrea.vezzini@bfh.ch" style=3D"color:
+                  purple; "><span style=3D"color: rgb(31, 73, 125); " lang=
+=3D"FR">andrea.vezzini@bfh.ch</span></a><span style=3D"color: rgb(31, 73, 1=
+25); " lang=3D"FR"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"ma=
+rgin: 0cm 0cm 0.0001pt;
+                font-size: 11pt; "><span style=3D"color: rgb(31, 73, 125);
+                  " lang=3D"FR">Web&nbsp;</span><a moz-do-not-send=3D"true"=
+ href=3D"http://www.ti.bfh.ch/" style=3D"color: purple; "><span style=3D"co=
+lor: rgb(31, 73, 125); " lang=3D"FR">http://www.ti.bfh.ch/</span></a></p></=
+div><br></div></div></div><div><br></div><span id=3D"OLK_SRC_BODY_SECTION">=
+<div style=3D"font-family:Calibri; font-size:11pt;
+          text-align:left; color:black; BORDER-BOTTOM: medium none;
+          BORDER-LEFT: medium none; PADDING-BOTTOM: 0in; PADDING-LEFT:
+          0in; PADDING-RIGHT: 0in; BORDER-TOP: #b5c4df 1pt solid;
+          BORDER-RIGHT: medium none; PADDING-TOP: 3pt"><span style=3D"font-=
+weight:bold">Von: </span>Gauthier Plagne &lt;<a moz-do-not-send=3D"true" hr=
+ef=3D"mailto:GPl@lem.com">GPl@lem.com</a>&gt;<br><span style=3D"font-weight=
+:bold">Datum: </span>Montag, 21. Oktober 2013 14:25<br><span style=3D"font-=
+weight:bold">An: </span>Andrea Vezzini &lt;<a moz-do-not-send=3D"true" href=
+=3D"mailto:andrea.vezzini@bfh.ch">andrea.vezzini@bfh.ch</a>&gt;<br><span st=
+yle=3D"font-weight:bold">Cc: </span>Wolfram Teppan &lt;<a moz-do-not-send=
+=3D"true" href=3D"mailto:wte@lem.com">wte@lem.com</a>&gt;<br><span style=3D=
+"font-weight:bold">Betreff: </span>Project =E9valuation capteurs LEM sur ba=
+nc de test
+<br></div><div><br></div><div><div><font face=3D"sans-serif" size=3D"2">Mon=
+sieur Vezzini,</font> <br><br><br><font face=3D"sans-serif" size=3D"2">Suit=
+e =E0 notre rencontre de lundi dernier, je vous envoi des informations comp=
+l=E9mentaires concernant le capteur zero-offset que nous avons d=E9velopp=
+=E9 pour les applications de batterie li-ion.</font><br><br><font face=3D"s=
+ans-serif" size=3D"2">La datahseet du produit:</font> <br><br><br><br><font=
+ face=3D"sans-serif" size=3D"2">Et une bref pr=E9sentation r=E9sumant les a=
+vantages de ce type de produit dans les battery pack pour v=E9hicules =E9le=
+ctriques et hybrides:</font><br><br><br><br><br><font face=3D"sans-serif" s=
+ize=3D"2">C'est sur la base de cette pr=E9sentation que je voudrais faire u=
+ne publication en montrant diff=E9rents r=E9sultats obtenus =E0 la suite d'=
+essais r=E9alis=E9s sur votre banc de test.
+</font><br><br><br><font face=3D"sans-serif" size=3D"2">Lors de notre discu=
+ssion, nous avons convenu de monter un projet d'=E9tude dans lequel nous al=
+lons mettre =E0 votre disposition diff=E9rents capteurs de courant avec plu=
+sieurs technologies de mesure ainsi que des profiles de courant
+ provenant de nos clients. Le but est de v=E9rifier la pr=E9cision de chaqu=
+e capteur en mesure de SOC sur un profile complet en comparaison avec un ca=
+pteur de courant de r=E9f=E9rence.</font><br><font face=3D"sans-serif" size=
+=3D"2">L'objectif est de d=E9marrer les essais en d=E9cembre.</font><br><br=
+><font face=3D"sans-serif" size=3D"2">En esp=E9rant avoir prochainement l'o=
+ccasion de vous revoir, plus longuement cette
+</font><br><font face=3D"sans-serif" size=3D"2"><br></font><br><img moz-do-=
+not-send=3D"true" src=3D"cid:_1_0BB16FD80BB16ACC004434E7C1257C0B"></div></d=
+iv></span></blockquote><br><br><br></div></div></span></body></html>
+
+--_000_CE8B08F728F47andreavezzinibfhch_--
